@@ -5,15 +5,15 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>Multimodule</artifactId>
+  <artifactId>org.example.multimodule</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>AdditionalModule</module>
-    <module>MainModule</module>
+    <module>org.example.additionalmodule</module>
+    <module>org.example.mainmodule</module>
   </modules>
 
-  <name>Multimodule</name>
+  <name>multimodule</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
